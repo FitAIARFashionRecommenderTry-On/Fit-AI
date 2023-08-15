@@ -21,7 +21,7 @@ export const Shop= () => {
           description: 'Sporty Chic',
         },
         {
-          imageSrc: 'https://media.istockphoto.com/id/1213233746/photo/white-striped-shorts-with-bow-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=Ewna9IjEG3bKJo0x5rbzcfgLA1nKlYoYfK12scnI80U',
+          imageSrc: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYVzJEbly_AZwmX44hC5__vGiEh1HScLdX4N1jXRmfxjXllb9ZrDe7akUdudopyhP0gJc&usqp=CAU',
           description: 'Casual Denim',
         },
         {
