@@ -25,11 +25,11 @@ export const Shop= () => {
           description: 'Casual Denim',
         },
         {
-          imageSrc: 'https://media.istockphoto.com/id/905476552/photo/top-view-fashion-trendy-look-of-kids-clothes-on-white-wooden-background-kids-fashion-spring.jpg?s=612x612&w=0&k=20&c=qucx-Q4DdpwdXH1kU-yYb0N4fDutGNGuZiWfvkw4XJ4',
+          imageSrc: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMAV0SMs60nMmL82cshC31Szx47zY2orrZ_g&usqp=CAU',
           description: 'Bohemian Vibes',
         },
         {
-          imageSrc: 'https://media.istockphoto.com/id/171224469/photo/canvas-shoes.jpg?s=612x612&w=0&k=20&c=oD5A61xxgna-0WNafNcZxySSwCiEnUCs5wiDJVfb2tQ',
+          imageSrc: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4rIXzo4yfeBxNFMFqZB29x2xrK2f41Ghnow&usqp=CAU',
           description: 'Urban StreetWear',
         },
     ]
