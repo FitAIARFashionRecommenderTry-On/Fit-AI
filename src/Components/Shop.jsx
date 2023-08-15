@@ -29,7 +29,7 @@ export const Shop= () => {
           description: 'Bohemian Vibes',
         },
         {
-          imageSrc: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4rIXzo4yfeBxNFMFqZB29x2xrK2f41Ghnow&usqp=CAU',
+          imageSrc: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeYOqdJ3JhTbcvKwg27V9OSz6_KlEFICRqiw&usqp=CAU',
           description: 'Urban StreetWear',
         },
     ]
